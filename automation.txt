@@ -1,0 +1,1 @@
+“Path where your Python exe is stored\python.exe” “Path where your oneWeek script is stored\script name.py and turn txt to bath”
